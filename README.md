@@ -16,7 +16,7 @@ Place the remaps in following folder (Create folder if it does not exist):
 !!filename must match your Romname!!
 
 e.g. Doom 64.ini in the "remaps" folder must match; Doom 64.v64 or Doom 64.z64 in your "n64" roms-folder
-
+/home/yourusername/RetroPie/roms/n64/ (check your pathname)
 
 
 
