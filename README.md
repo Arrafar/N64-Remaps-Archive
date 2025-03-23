@@ -1,7 +1,7 @@
-My first ever git, patience please <3
+Controls are only applicable in game (You still need to re-assign controls in Emulation Station)
 
 
-Place these files first, remaps won't work without:
+Place these files first, remaps won't work without them:
 
 /opt/retropie/configs/all/runcommand-onstart.sh
 
@@ -10,13 +10,13 @@ Place these files first, remaps won't work without:
 
 Place the remaps in following folder (Create folder if it does not exist):
 
-/opt/retropie/configs/n64/mupen64plus/remaps/
+/opt/retropie/configs/n64/mupen64plus/remaps/Doom 64.ini
 
 
-!!filename must match your Romname!!
+!!The filename must match the Romname!!
 
 e.g. Doom 64.ini in the "remaps" folder must match; Doom 64.v64 or Doom 64.z64 in your "n64" roms-folder
-/home/yourusername/RetroPie/roms/n64/ (check your pathname)
+/home/yourusername/RetroPie/roms/n64/Doom 64.v64 (check your pathname)
 
 
 
