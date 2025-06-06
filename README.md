@@ -1,4 +1,6 @@
 Controls are only applicable in game (You still need to re-assign controls in Emulation Station)
+Disclaimers: Controls are optimized for most comfortable gameplay, therefore menu controls suffer in a handful of games e.g. Ready 2 Rumble A+B = L+R
+             Modern movement controls is preferred vs. Perfect manual Aiming in Goldeneye 007 and Perfect Dark
 
 
 Place these files first, remaps won't work without them:
@@ -22,9 +24,9 @@ e.g. Doom 64.ini in the "remaps" folder must match; Doom 64.v64 or Doom 64.z64 i
 
 Controllers tested for these remaps files:
 
-[Xbox Series X Controller] Bluetooth
+[Xbox Series X Controller] Bluetooth only
 
-[Xbox 360 Controller] wired
+[Xbox 360 Controller] wired only
 
 [ShanWan PC/PS3/Android] wifi dongle 2,4ghz
 
