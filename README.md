@@ -1,5 +1,5 @@
 Controls are only applicable in game (You still need to re-assign controls in Emulation Station)
-Disclaimers: Controls are optimized for most comfortable gameplay, therefore menu controls suffer in a handful of games e.g. Ready 2 Rumble A+B = L+R
+Disclaimers: Controls are optimized for most comfortable gameplay, therefore menu controls suffer in a handful of games e.g. Ready 2 Rumble A+B = L+R.
              Modern movement controls is preferred vs. Perfect manual Aiming in Goldeneye 007 and Perfect Dark
 
 
